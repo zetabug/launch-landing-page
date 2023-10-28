@@ -1,6 +1,7 @@
 # launch-landing-page
-Created with CodeSandbox
-Important Instruction: to change the date in the Launch component in the setHours() function, using 24 hrs format. 
+
+Important Instruction:
+To change the date in the Launch component in the setHours() function, using 24 hrs format. 
 
 To activate the dark mode follow these steps:
 1. Go to index.html
