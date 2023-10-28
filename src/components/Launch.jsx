@@ -8,7 +8,7 @@ import Live from "./Live";
 
 export default function Launch() {
   const [isTimeOver, setIsTimeOver] = useState(false);
-  const deadline = new Date().setHours(17, 24, 0); // Set your deadline date and time
+  const deadline = new Date().setHours(48, 24, 0); // Set your deadline date and time
 
   return (
     <div className="container">
